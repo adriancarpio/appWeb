@@ -8,9 +8,9 @@ else{
     echo 'conectado a la base de datos';
 }*/
 
-$host="ginion.mysql.database.azure.com";
+$host="adrian12.mysql.database.azure.com";
 $port=3306;
-$user="adrian@ginion";
+$user="adrian1208@adrian12";
 $password="Carpio1208";
 $dbname="registro";
 
